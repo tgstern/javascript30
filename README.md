@@ -5,3 +5,4 @@
 |Live Demo |Description |
 |---|---|
 |[JavaScript DrumKit](https://tgstern.github.io/javascript30/01-JavaScriptDrumKit/)| Drumkit with sounds linked to keyboard events |
+|[JavaScript DrumKit](https://tgstern.github.io/javascript30/02-JSandCSSClock/)| One page simple analog clock design |
