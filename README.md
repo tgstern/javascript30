@@ -8,3 +8,4 @@
 |[JS and CSS Clock](https://tgstern.github.io/javascript30/02-JSandCSSClock/)| One page simple analog clock design |
 |[CSS Variables](https://tgstern.github.io/javascript30/03-CSSVariables/)| Image with live updating input sliders to adjust CSS variables |
 |[Array Cardio Day 1](https://tgstern.github.io/javascript30/04-ArrayCardioDay1/)| Exercises with Array built-in functions, viewable in the browser console |
+|[Flex Panel Gallery](https://tgstern.github.io/javascript30/05-FlexPanelGallery/)| Dynamic gallery using CSS flex and transition properties for resize animations |
