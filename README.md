@@ -11,4 +11,4 @@
 |[Flex Panel Gallery](https://tgstern.github.io/javascript30/05-FlexPanelGallery/)| Dynamic gallery using CSS flex and transition properties for resize animations |
 |[Type Ahead](https://tgstern.github.io/javascript30/06-TypeAhead/)| Filtering city list suggestions while typing with fetch() to gather data |
 |[Array Cardio Day 2](https://tgstern.github.io/javascript30/07-ArrayCardioDay2/)| More exercises with Array built-in functions, viewable in the browser console |
-|[HTML5 Canvas](https://tgstern.github.io/javascript30/08-FunwithHTML5Canvas/)| CLick to draw page using browser built-in canvas |
+|[HTML5 Canvas](https://tgstern.github.io/javascript30/08-FunwithHTML5Canvas/)| Click to draw page using browser built-in canvas |
