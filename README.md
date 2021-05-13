@@ -16,3 +16,4 @@
 |[Hold Shift and Check Checkboxes](https://tgstern.github.io/javascript30/10-HoldShiftandCheckCheckboxes/)| Inbox-like page where shift+click checks boxes between on the list |
 |[Custom Video Player](https://tgstern.github.io/javascript30/11-CustomVideoPlayer/)| Custom video player style to replace browser default with various controls and scrubbing |
 |[Key Sequence Detection](https://tgstern.github.io/javascript30/12-KeySequenceDetection/)| Window listens for typed sequence "cornify" and runs script on match |
+|[Slide on Scroll](https://tgstern.github.io/javascript30/13-SlideOnScroll/)| Images slide in horizontally on window scroll with debounce to limit function calls |
