@@ -18,3 +18,4 @@
 |[Key Sequence Detection](https://tgstern.github.io/javascript30/12-KeySequenceDetection/)| Window listens for typed sequence "cornify" and runs script on match |
 |[Slide on Scroll](https://tgstern.github.io/javascript30/13-SlideOnScroll/)| Images slide in horizontally on window scroll with debounce to limit function calls |
 |[JavaScript References vs Copying](https://tgstern.github.io/javascript30/14-JavaScriptReferencesVSCopying/)| Practicing methods to create copies of different variable types with JavaScript |
+|[Local Storage](https://tgstern.github.io/javascript30/15-LocalStorage/)| Dynamic menu list to add, toggle, and remove items making use of browser's local storage |
