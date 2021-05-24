@@ -20,3 +20,4 @@
 |[JavaScript References vs Copying](https://tgstern.github.io/javascript30/14-JavaScriptReferencesVSCopying/)| Practicing methods to create copies of different variable types with JavaScript |
 |[Local Storage](https://tgstern.github.io/javascript30/15-LocalStorage/)| Dynamic menu list to add, toggle, and remove items making use of browser's local storage |
 |[Mouse Shadow](https://tgstern.github.io/javascript30/16-MouseMoveShadow/)| Moving shadow that responds to mouse position over the page element |
+|[Sort With Articles](https://tgstern.github.io/javascript30/17-SortWithoutArticles/)| Sorting an array with compare function and using regex to remove articles before alphabetize |
