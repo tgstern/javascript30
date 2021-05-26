@@ -22,3 +22,4 @@
 |[Mouse Shadow](https://tgstern.github.io/javascript30/16-MouseMoveShadow/)| Moving shadow that responds to mouse position over the page element |
 |[Sort With Articles](https://tgstern.github.io/javascript30/17-SortWithoutArticles/)| Sorting an array with compare function and using regex to remove articles before alphabetize |
 |[Adding Up Times With Reduce](https://tgstern.github.io/javascript30/18-AddingUpTimeswithReduce/)| Calculate total time of a list of videos with dataset property using map and reduce functions |
+|[Webcam Fun](https://github.com/tgstern/javascript30/19-WebcamFun/)| Page to access webcam, take photos, and add filters to image (requires separate server) |
