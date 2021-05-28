@@ -24,4 +24,4 @@
 |[Adding Up Times With Reduce](https://tgstern.github.io/javascript30/18-AddingUpTimeswithReduce/)| Calculate total time of a list of videos with dataset property using map and reduce functions |
 |[Webcam Fun](https://github.com/tgstern/javascript30/tree/main/19-WebcamFun)| Page to access webcam, take photos, and add filters to image (requires server) |
 |[Speech Detection](https://github.com/tgstern/javascript30/tree/main/20-SpeechDetection)| Page listens for speech input and adds recognized text into the DOM (requires server) |
-|[Speech Detection](https://github.com/tgstern/javascript30/tree/main/20-SpeechDetection)| Detects device motion and displays speed and direction of movement (requires server & geolocation) |
+|[Speech Detection](https://github.com/tgstern/javascript30/tree/main/20-SpeechDetection)| Displays speed and direction of device motion (requires server & geolocation) |
