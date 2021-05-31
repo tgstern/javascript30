@@ -25,5 +25,5 @@
 |[Webcam Fun](https://github.com/tgstern/javascript30/tree/main/19-WebcamFun)| Page to access webcam, take photos, and add filters to image (requires server) |
 |[Speech Detection](https://github.com/tgstern/javascript30/tree/main/20-SpeechDetection)| Page listens for speech input and adds recognized text into the DOM (requires server) |
 |[Geolocation](https://github.com/tgstern/javascript30/tree/main/21-Geolocation)| Displays speed and direction of device motion (requires server & geolocation) |
-|[Follow Along Highlight](https://github.com/tgstern/javascript30/tree/main/22-FollowAlongHighlight)| Highlight box that moves to link tags when mouse passes over the element |
-|[Speech Synthesis](https://github.com/tgstern/javascript30/tree/main/23-SpeechSynthesis)| Text-to-speech box with custom input, browser voice options, and speed/pitch sliders |
+|[Follow Along Highlight](https://tgstern.github.io/javascript30/22-FollowAlongHighlight)| Highlight box that moves to link tags when mouse passes over the element |
+|[Speech Synthesis](https://tgstern.github.io/javascript30/23-SpeechSynthesis)| Text-to-speech box with custom input, browser voice options, and speed/pitch sliders |
