@@ -24,5 +24,6 @@
 |[Adding Up Times With Reduce](https://tgstern.github.io/javascript30/18-AddingUpTimeswithReduce/)| Calculate total time of a list of videos with dataset property using map and reduce functions |
 |[Webcam Fun](https://github.com/tgstern/javascript30/tree/main/19-WebcamFun)| Page to access webcam, take photos, and add filters to image (requires server) |
 |[Speech Detection](https://github.com/tgstern/javascript30/tree/main/20-SpeechDetection)| Page listens for speech input and adds recognized text into the DOM (requires server) |
-|[Speech Detection](https://github.com/tgstern/javascript30/tree/main/20-SpeechDetection)| Displays speed and direction of device motion (requires server & geolocation) |
-|[Follow Along Highlight](https://github.com/tgstern/javascript30/tree/main/21-FollowAlongHighlight)| Highlight box that moves to link tags when mouse passes over the element|
+|[Geolocation](https://github.com/tgstern/javascript30/tree/main/21-Geolocation)| Displays speed and direction of device motion (requires server & geolocation) |
+|[Follow Along Highlight](https://github.com/tgstern/javascript30/tree/main/22-FollowAlongHighlight)| Highlight box that moves to link tags when mouse passes over the element |
+|[Speech Synthesis](https://github.com/tgstern/javascript30/tree/main/23-SpeechSynthesis)| Text-to-speech box with custom input, browser voice options, and speed/pitch sliders |
