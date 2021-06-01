@@ -27,3 +27,4 @@
 |[Geolocation](https://github.com/tgstern/javascript30/tree/main/21-Geolocation)| Displays speed and direction of device motion (requires server & geolocation) |
 |[Follow Along Highlight](https://tgstern.github.io/javascript30/22-FollowAlongHighlight)| Highlight box that moves to link tags when mouse passes over the element |
 |[Speech Synthesis](https://tgstern.github.io/javascript30/23-SpeechSynthesis)| Text-to-speech box with custom input, browser voice options, and speed/pitch sliders |
+|[Sticky Nav](https://tgstern.github.io/javascript30/24-StickyNav)| Navbar that changes to fixed position on scroll with smooth transition and page resizing |
