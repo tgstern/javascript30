@@ -28,3 +28,4 @@
 |[Follow Along Highlight](https://tgstern.github.io/javascript30/22-FollowAlongHighlight/)| Highlight box that moves to link tags when mouse passes over the element |
 |[Speech Synthesis](https://tgstern.github.io/javascript30/23-SpeechSynthesis/)| Text-to-speech box with custom input, browser voice options, and speed/pitch sliders |
 |[Sticky Nav](https://tgstern.github.io/javascript30/24-StickyNav/)| Navbar that changes to fixed position on scroll with smooth transition and page resizing |
+|[Event Capture](https://tgstern.github.io/javascript30/25-EventCapture/)| Closer look at event capture, propogation, bubbling, and options for event listeners |
