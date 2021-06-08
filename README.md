@@ -29,3 +29,4 @@
 |[Speech Synthesis](https://tgstern.github.io/javascript30/23-SpeechSynthesis/)| Text-to-speech box with custom input, browser voice options, and speed/pitch sliders |
 |[Sticky Nav](https://tgstern.github.io/javascript30/24-StickyNav/)| Navbar that changes to fixed position on scroll with smooth transition and page resizing |
 |[Event Capture](https://tgstern.github.io/javascript30/25-EventCapture/)| Closer look at event capture, propogation, bubbling, and options for event listeners |
+|[Follow Along Nav](https://tgstern.github.io/javascript30/26-StripeFollowAlongNav/)| Stripe-inspired dropdown nav that opens on mouse hover and follows changes |
