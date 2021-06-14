@@ -13,6 +13,7 @@ function timer(seconds) {
         const secondsLeft = Math.round((then - Date.now()) / 1000);
         if (secondsLeft < 0) {
             clearInterval(countdown);
+            endTime.textContent = 'Time up!'
             return;
         }
         displayTimeLeft(secondsLeft);
@@ -31,7 +32,7 @@ function displayEndTime(timestamp) {
     const end = new Date(timestamp);
     const hours = end.getHours();
     const minutes = end.getMinutes();
-    endTime.textContent = `Be back at ${hours > 12 ? hours - 12 : hours}:${minutes < 10 ? '0' : ''}${minutes}`;
+    endTime.textContent = `Time up at ${hours > 12 ? hours - 12 : hours}:${minutes < 10 ? '0' : ''}${minutes}`;
 }
 
 function startTimer() {
