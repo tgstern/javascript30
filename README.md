@@ -33,3 +33,4 @@
 |[Click and Drag](https://tgstern.github.io/javascript30/27-ClickandDrag/)| Side scrolling bar with click and drag function built from scratch |
 |[Video Speed Controller](https://tgstern.github.io/javascript30/28-VideoSpeedController/)| Custom adjustable video playback speed slider |
 |[Countdown Timer](https://tgstern.github.io/javascript30/29-CountdownTimer/)| Browser countdown timer page with different intervals and custom displays |
+|[Whack A Mole](https://tgstern.github.io/javascript30/30-WhackAMole/)| Playable whack a mole game with score keeping and animations |
